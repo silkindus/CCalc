@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CCalculator</string>
+    <string name="k">k (trieda)</string>
+    <string name="calculate">Kombinácia s rep.</string>
+    <string name="comb">Kombinácie</string>
+    <string name="error">Chyba</string>
+    <string name="n">n (prvkov)</string>
+    <string name="result">Výsledok</string>
+    <string name="vari">Variácie</string>
+    <string name="vari_o">Variácie s opak.</string>
+    <string name="info">Ďakujeme za stiahnutie aplikácie.\n\nPopis: táto aplikácia počíta variácie a kombinácie s opakovaním alebo bez opakovania. \n\nPoužitie: V prvom poli zadajte počet prvkov (= n) a v druhom poli zadajte triedu (= k). Stlačením príslušného tlačidla spustíte výpočet. \nVýsledok (redukovaný a plný) sa zobrazí pod tlačidlami a plný výsledok sa automaticky skopíruje do schránky.</string>
+    <string name="comb_o">Kombinácie s opak.</string>
+    <string name="help">Verzia 1.1</string>
+</resources>

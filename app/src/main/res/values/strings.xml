@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CCalculator</string>
+    <string name="vari">Variation</string>
+    <string name="vari_o">Variation w/rep.</string>
+    <string name="comb">Combination</string>
+    <string name="comb_o">Combination w/rep.</string>
+    <string name="result">Result</string>
+    <string name="result_val" translatable="false">%d</string>
+    <string name="n">n (total)</string>
+    <string name="k">k (chosen)</string>
+    <string name="info">Thank you for downloading the app.\n\n
+    Description: \nthis application calculates variations and combinations with or without repetition. It is calculated through formulas.\n\n
+    Usage: \nIn the first field type the number of total elements (=n) and in the second field type the number of chosen elements(=k). After choose what type of formula you need to use.
+    The result (comact and full) will show below the buttons and full result is automatically copied to clipboard.</string>
+    <string name="help">Version 1.1</string>
+    <string name="blank" translatable="false">%d</string>
+    <string name="error">Error!</string>
+    <string name="calculate">Calculating ..</string>
+</resources>
